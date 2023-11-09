@@ -1,4 +1,4 @@
 # MATERI GIT 
 ## Ditulis Oleh Ariel
 
-<img src="images.jpg"> 
+<img src="b.jpg"> 
